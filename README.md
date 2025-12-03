@@ -66,12 +66,12 @@ Current text is: Hello
 
 --------------------------------------------
 
-🛠 Technologies Used
-Java
-Custom stack implementation
+🛠 Technologies Used<br/>
+Java<br/>
+Custom stack implementation<br/>
 StringBuilder
 
 --------------------------------------------
 
-📄 License
+📄 License<br/>
 This project is free to use for learning, assignments, and personal projects.
